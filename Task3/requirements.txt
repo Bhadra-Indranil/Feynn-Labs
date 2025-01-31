@@ -1,0 +1,1 @@
+pip install numpy rasterio geopandas matplotlib scikit-learn
